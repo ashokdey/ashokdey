@@ -6,10 +6,12 @@
 
 ⚡  &nbsp; I am a **Technologist** and a **Product Engineer** ⚡ 
 
-🚀   &nbsp; I've built, maintained, migrated, and scaled products for SAAS startups from scratch until now
+🚀   &nbsp; Experienced in building, maintaining and scaling products for SAAS startups from scratch
 
-📚  &nbsp; Volunteering free education via **[Knaxus](https://knaxus.in/)** & **[ShredX](https://shredx.work)** :100:
+📚  &nbsp; Volunteer free education via **[Knaxus](https://knaxus.in/)** & **[ShredX](https://shredx.work)** :100:
 
-💼  &nbsp; Here's my resume: [ashokdey.in](https://ashokdey.in)
+💼  &nbsp; Website: [ashokdey.in](https://ashokdey.in)
 
-📭  &nbsp; Connect with me on my email: ad@ashokdey.in
+📭  &nbsp; Feel free to connect with me: ad@ashokdey.in
+
+:speech_balloon: &nbsp; Join my telegram group: [t.me/knaxus](https://t.me/knaxus)
