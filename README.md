@@ -1,11 +1,16 @@
-### Hello there 👋
+### A Technologist 👋
 
-<!--
-**ashokdey/ashokdey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- ⭐ Currently working as a **Product Engineer**
+- 💼 Previously built the whole tech platform for 2 successful startups
+- ⚡ Making open source more interesting via [Knaxus](https://knaxus.in) and [ShredX](https://shredx.work)
+- 🚀 Provided mentorship for **Software Engineering** to 150+ devs 🚀
 
-⚡  &nbsp; A **Technologist** || 💼  &nbsp; Website: [ashokdey.in](https://ashokdey.in) || 📭  &nbsp; Email: [ad@ashokdey.in](mailto://ad@ashokdey.in)
+Web: [ashokdey.in](https://ashokdey.in) 
 
-🚀   &nbsp; Designed and built 2 SAAS startups from scratch until now
+![Twitter Follow](https://img.shields.io/twitter/follow/ashokdey_?label=%40ashokdey_&style=social)
+<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/ashokdey/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
 
-📚  &nbsp; Creator of **[Knaxus](https://knaxus.in/)** & **[ShredX](https://shredx.work)** :100:
+#### Learning to Code? 👨‍💻
+
+Have Look at [Knaxus](https://github.com/knaxus) [GitHub Organisation] for beginner friendly real world projects. 
