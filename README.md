@@ -13,4 +13,4 @@ Web: [ashokdey.in](https://ashokdey.in)
 </a>
 
 #### Learning to Code? 👨‍💻
-Have Look at [Knaxus](https://github.com/knaxus) (GitHub Organisation) for beginner friendly real world projects. 
+Have Look at [Knaxus](https://knaxus.in) for beginner friendly real world projects. 
