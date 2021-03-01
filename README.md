@@ -1,7 +1,7 @@
 ### A Technologist 👋
 
 - ⭐ Currently working as a **Product Engineer**
-- 💼 Previously built the whole tech platform for 2 successful startups
+- 💼 Previously built the 3 SAAS Tech Products & Platforms for successful startups
 - ⚡ Making open source more interesting via [Knaxus](https://knaxus.in) and [ShredX](https://shredx.work)
 - 🚀 Provided mentorship for **Software Engineering** to 150+ devs 🚀
 
